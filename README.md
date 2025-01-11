@@ -1,11 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1><b> Hi there, I'm Fernando Consiglieri</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<h1><b> Hi there, I'm David Yáñez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-<p align="justify">I am a final-year Computer Science Engineering student. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. I’m interested in expanding my knowledge and discovering new fields in the industry.</p>
+<p align="justify">I am a final-year Computer Science Engineering student and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills. I’m deeply interested in expanding my knowledge and discovering new fields in the industry.</p>
 
 - 🚀 I’m eager to join new projects and collaborate with others to build innovative solutions.
-- 🧐 I have a strong interest in cybersecurity and am actively expanding my skills in this field.
+- 🧐 I am currently interested in almost every area of computert science and am actively expanding my skills in every field.
 - 📈 I'm always looking to improve my coding practices and explore the latest tools and technologies.
 
 ---
