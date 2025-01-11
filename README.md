@@ -5,12 +5,12 @@
 <p align="justify">I am a final-year Computer Science Engineering student and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. Despite having experience and a degree in mobile application development, I am eager to broaden my horizons and explore other areas within computer science. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills. I’m deeply interested in expanding my knowledge and discovering new fields in the industry.</p>
 
 - 🚀 I’m eager to join new projects and collaborate with others to build innovative solutions.
-- 🧐 I am currently interested in almost every area of computert science and am actively expanding my skills in every field.
+- 🧐 I am currently interested in almost every area of computer science and am actively expanding my skills in every field.
 - 📈 I'm always looking to improve my coding practices and explore the latest tools and technologies.
 
 ---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Projects***
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR6ZTB4b3ptczNtYmtmbW5teTBsZHAwY241bHhnc3RzY3V6cnN2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="35">&nbsp; ***My Projects***
 
 | Repository | Description |
 |------------|-------------|
@@ -52,8 +52,8 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Connect with me!
 
 <div align="center">
-  <a href="mailto:fconsiglierialcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="www.linkedin.com/in/fernando-consiglieri-alcántara-848532225"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="mailto:davidym343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/david-yanez-martinez"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
