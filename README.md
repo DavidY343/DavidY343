@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR6ZTB4b3ptczNtYmtmbW5teTBsZHAwY241bHhnc3RzY3V6cnN2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="35">&nbsp; ***My Projects***
+ ***My Projects***
 
 | Repository | Description |
 |------------|-------------|
@@ -19,7 +19,7 @@
 | [**A Star Algorithm**](https://github.com/DavidY343/CSP-and-A-start-algorithm) | 🚑 In this project, I implemented the A* heuristic algorithm and explored different heuristic models, including brute force, Manhattan distance, and Euclidean distance, to optimize pathfinding. The goal was to compare the performance and accuracy of various heuristics in solving search problems. |
 | [**Distributed Communication with RPC and Web Services**](https://github.com/DavidY343/SSDD_final) | 🖧 In this project, we implement a distributed system using RPC, Socket, and Web Services. It enables efficient client-server communication with RPC for structured operations, sockets for real-time requests like file retrieval and user management, and a simple SOAP web service to provide the current time. |
 | [**Mongo DB Migration Process**](https://github.com/DavidY343/arquidatos) | 🛠️ In this project, we focus on performing ETL processes on a dirty database, transforming it into a clean version. The cleaned data is then uploaded to MongoDB, where we implement preprocessing, validation schemas, and aggregations to ensure efficient and structured data management. |
-
+| [**42 Madrid Curriculum Journey**]https://github.com/DavidY343/42_swap) | 🌍 This project reflects my journey through the 42 Madrid curriculum, where I’ve tackled challenges across a wide range of topics including C programming, algorithms, Unix systems, web development, databases, and DevOps. Through peer-to-peer learning and project-based tasks, I’ve developed technical skills and a problem-solving mindset, fostering creativity and collaboration. |
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
@@ -40,16 +40,11 @@
   &emsp;
 	<img alt="Sql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   &emsp;
-	<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  &emsp;
-	<img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-  &emsp;
-	<img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 ---
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Connect with me!
+### Connect with me!
 
 <div align="center">
   <a href="mailto:davidym343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
