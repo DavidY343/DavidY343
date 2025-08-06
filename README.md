@@ -1,6 +1,5 @@
-<img src="images/presentation.png" width="100%">
+<img src="images/presentation.png" width="50%">
 
-<h1><b> Hi there, I'm David Yáñez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 <p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills. I’m deeply interested in expanding my knowledge and discovering new fields in the industry.</p>
 
