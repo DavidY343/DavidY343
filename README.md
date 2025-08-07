@@ -42,13 +42,13 @@
 
 ---
 
- ***My Projects***
+ ***My Featured Projects***
 
 | Repository | Description |
 |------------|-------------|
 | [**42 Madrid Curriculum Journey**](https://github.com/DavidY343/42_journey) | 🌍 This project reflects my journey through the 42 Madrid curriculum, where I’ve tackled challenges across a wide range of topics including C programming, algorithms, Unix systems, web development, databases, and DevOps. Through peer-to-peer learning and project-based tasks, I’ve developed technical skills and a problem-solving mindset, fostering creativity and collaboration. |
-| [**Neural Style Transfer (Modular)**](https://github.com/DavidY343/Neural_style_transfer) |  Python-based, modular implementation of Neural Style Transfer, combining a content image and a style image/video using a VGG19 convolutional neural network. Supports both images and videos, with configuration via YAML files and integration of tools like scikit‑learn. Designed to explore and understand CNN behavior through combinations of convolutional layers. |
-| [**Energy Consumption Clustering (EDA + Clustering)**](https://github.com/DavidY343/TFG_electric_clustering) |  Exploratory Data Analysis (EDA) followed by unsupervised clustering of household energy consumption patterns in Getafe. Applies methods such as K‑Means, Spectral Clustering, Bisecting K‑Means, and K‑ISAC_TLP. Emphasizes a modular, explanatory codebase for scalability, extensibility to new datasets, and insightful identification of consumption profiles. |
+| [**Neural Style Transfer (Modular)**](https://github.com/DavidY343/Neural_style_transfer) |  🖼 Python-based, modular implementation of Neural Style Transfer, combining a content image and a style image/video using a VGG19 convolutional neural network. Supports both images and videos, with configuration via YAML files and integration of tools like scikit‑learn. Designed to explore and understand CNN behavior through combinations of convolutional layers. |
+| [**Energy Consumption Clustering (EDA + Clustering)**](https://github.com/DavidY343/TFG_electric_clustering) | 💡 Exploratory Data Analysis (EDA) followed by unsupervised clustering of household energy consumption patterns in Getafe. Applies methods such as K‑Means, Spectral Clustering, Bisecting K‑Means, and K‑ISAC_TLP. Emphasizes a modular, explanatory codebase for scalability, extensibility to new datasets, and insightful identification of consumption profiles. |
 
 
 ---
