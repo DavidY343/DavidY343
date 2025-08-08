@@ -1,4 +1,4 @@
-<img src="images/presentation.png" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=F7D822&width=435&lines=Hi+there%2C+I'm+David+Y%C3%A1%C3%B1ez;Computer+Scientist+Graduate)](https://git.io/typing-svg)
 
 
 <p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills.</p>
@@ -59,5 +59,7 @@
 <div align="center">
   <a href="mailto:davidym343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/david-yanez-martinez"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://github.com/DavidY343?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DavidY343?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" height=25 /></a>
+</p>
 </div>
 
