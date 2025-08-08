@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=F7D822&width=435&lines=Hi+there%2C+I'm+David+Y%C3%A1%C3%B1ez;Computer+Scientist+Graduate)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=F7D822&width=435&lines=Hi+there%2C+I'm+David+Y%C3%A1%C3%B1ez;Computer+Scientist+Graduate" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills.</p>
