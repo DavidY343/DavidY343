@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 <p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills.</p>
 
 - 🧐 I am currently interested in almost every area of computer science and am actively expanding my skills in every field.
@@ -14,7 +15,7 @@
   <table>
     <tr>
       <td>
-    <img src="https://github-profile-trophy.vercel.app/?username=DavidY343&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DavidY343&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox" alt="Top Languages" />
@@ -22,6 +23,7 @@
     </tr>
   </table>
 </p>
+
 
 ---
 
