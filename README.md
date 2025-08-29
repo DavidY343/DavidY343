@@ -6,16 +6,24 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DavidY343&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
-
 
 <p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills.</p>
 
 - 🧐 I am currently interested in almost every area of computer science and am actively expanding my skills in every field.
 - 📈 I'm always looking to improve my coding practices and explore the latest tools and technologies.
 
-
+---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
