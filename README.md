@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox" alt="Top Languages" />
 </p>
 
 
