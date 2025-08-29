@@ -5,6 +5,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox&layout=compact" alt="Top Languages" />
+</p>
+
 
 <p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills.</p>
 
