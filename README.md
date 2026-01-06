@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DavidY343&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DavidY343&show_icons=true&theme=gruvbox&cache_seconds=86400&random=1" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox" alt="Top Languages" />
