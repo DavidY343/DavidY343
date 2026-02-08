@@ -38,10 +38,6 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DavidY343&bg_color=1F222E&color=6B8E23&line=556B2F&point=D3D3D3&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidY343&theme=dark&background=1F222E&fire=6B8E23&ring=8FBC8F&sideNums=D3D3D3&currStreakNum=556B2F&hide_border=true" width="100%" /> 
-</p>
-
 ---
 
 ### Toolbox
@@ -62,12 +58,15 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**42 Journey**](https://github.com/DavidY343/42_journey) | Technical evolution through the 42 Madrid curriculum. | `C`, `C++`, `Unix`, `Git`, `Docker`, `Shell`, `Algorithms` |
-| [**Neural Style Transfer**](https://github.com/DavidY343/Neural_style_transfer) | Artistic image fusion using VGG19 CNN architecture. | `Python`, `PyTorch`, `YAML`, |
+| [**Neural Style Transfer**](https://github.com/DavidY343/Neural_style_transfer) | Artistic image fusion using VGG19 CNN architecture. | `Python`, `PyTorch`, `YAML` |
 | [**Electric Clustering**](https://github.com/DavidY343/TFG_electric_clustering) | Energy consumption analysis and pattern segmentation. | `ML`, `EDA`, `Python`, `Numpy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn` |
 | [**Sprout (In Alpha)**](https://github.com/DavidY343/fintech-tracker) | Fintech tracker application. Meant to keep track on investments and bank accounts. | `React`, `TypeScript`, `FastAPI`, `Python`, `PostgreSQL` |
 
 ---
 
+### Recent Activity
+
+---
 ### Connect with me
 
 <div align="center">
