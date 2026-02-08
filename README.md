@@ -1,84 +1,87 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=F7D822&width=435&lines=Hi+there%2C+I'm+David+Y%C3%A1%C3%B1ez;Computer+Scientist+Graduate" alt="Typing SVG" />
-  </a>
-</p>
-
-
-<p align="justify">I am a Computer Science Engineer graduate and a proud member of 42 Madrid, an innovative coding academy that emphasizes peer-to-peer learning and project-based education. As part of 42’s international network, I collaborate with peers worldwide on innovative and real-world projects, fostering both technical and interpersonal skills.</p>
-
-- 🧐 I am currently interested in almost every area of computer science and am actively expanding my skills in every field.
-- 📈 I'm always looking to improve my coding practices and explore the latest tools and technologies.
-
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DavidY343&show_icons=true&theme=gruvbox&cache_seconds=86400&random=1" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&theme=gruvbox" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-
----
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-
-
-
-<p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B8E23&width=435&lines=Hi%2C+I'm+David!;Computer+Science+Engineer;42+Madrid+Alumni;Welcome+to+my+space!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-34568B?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Degree-Computer_Science-556B2F?style=flat-square&logo=computer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Coding_at_42-8FBC8F?style=flat-square&logo=42&logoColor=black" />
+  <img src="https://img.shields.io/badge/Location-Madrid%2C_Spain-BC8F8F?style=flat-square&logoColor=black" />
 </p>
-
-
 <p align="center">
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logo=machine-learning&logoColor=white">
-  <img alt="RapidMiner" src="https://img.shields.io/badge/RapidMiner-1D476E?style=for-the-badge&logo=rapidminer&logoColor=white">
+  <a href="#about-me">About Me</a> •
+  <a href="#stats--activity">Stats & Activity</a> •
+  <a href="#toolbox">Toolbox</a> •
+  <a href="#featured-projects">Featured Projects</a> •
+  <a href="#connect-with-me">Contact</a>
 </p>
 
 ---
 
- ***My Featured Projects***
+### About Me
 
-| Repository | Description |
-|------------|-------------|
-| [**42 Madrid Curriculum Journey**](https://github.com/DavidY343/42_journey) | 🌍 This project reflects my journey through the 42 Madrid curriculum, where I’ve tackled challenges across a wide range of topics including C programming, algorithms, Unix systems, web development, databases, and DevOps. Through peer-to-peer learning and project-based tasks, I’ve developed technical skills and a problem-solving mindset, fostering creativity and collaboration. |
-| [**Neural Style Transfer (Modular)**](https://github.com/DavidY343/Neural_style_transfer) |  🖼 Python-based, modular implementation of Neural Style Transfer, combining a content image and a style image/video using a VGG19 convolutional neural network. Supports both images and videos, with configuration via YAML files and integration of tools like scikit‑learn. Designed to explore and understand CNN behavior through combinations of convolutional layers. |
-| [**Energy Consumption Clustering (EDA + Clustering)**](https://github.com/DavidY343/TFG_electric_clustering) | 💡 Exploratory Data Analysis (EDA) followed by unsupervised clustering of household energy consumption patterns in Getafe. Applies methods such as K‑Means, Spectral Clustering, Bisecting K‑Means, and K‑ISAC_TLP. Emphasizes a modular, explanatory codebase for scalability, extensibility to new datasets, and insightful identification of consumption profiles. |
+Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid. I specialize in low-level programming and data-driven solutions, always looking for the most efficient way to solve complex puzzles.
 
+- Current focus: Navigating the 42 Curriculum, mastering C/C++, and systems architecture.
+- Learning: Deepening my knowledge in Machine Learning and Neural Networks.
+- Philosophy: "Code is like humor. When you have to explain it, it’s bad."
 
 ---
 
-### Connect with me!
+### Stats & Activity
+
+<p align="center">
+  <img alt="DavidY's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DavidY343&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=6B8E23&icon_color=F8D866" width="58%"/>
+  <img alt="DavidY's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=6B8E23&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="38%" />
+</p>
+
+<p align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DavidY343&bg_color=1F222E&color=6B8E23&line=556B2F&point=D3D3D3&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidY343&theme=dark&background=1F222E&fire=6B8E23&ring=8FBC8F&sideNums=D3D3D3&currStreakNum=556B2F&hide_border=true" width="100%" /> 
+</p>
+
+---
+
+### Toolbox
+
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **AI & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Cloud & DevOps**| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) |
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**42 Journey**](https://github.com/DavidY343/42_journey) | Technical evolution through the 42 Madrid curriculum. | `C`, `C++`, `Unix`, `Git`, `Docker`, `Shell`, `Algorithms` |
+| [**Neural Style Transfer**](https://github.com/DavidY343/Neural_style_transfer) | Artistic image fusion using VGG19 CNN architecture. | `Python`, `PyTorch`, `YAML`, |
+| [**Electric Clustering**](https://github.com/DavidY343/TFG_electric_clustering) | Energy consumption analysis and pattern segmentation. | `ML`, `EDA`, `Python`, `Numpy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn` |
+| [**Sprout (In Alpha)**](https://github.com/DavidY343/fintech-tracker) | Fintech tracker application. Meant to keep track on investments and bank accounts. | `React`, `TypeScript`, `FastAPI`, `Python`, `PostgreSQL` |
+
+---
+
+### Connect with me
 
 <div align="center">
-  <a href="mailto:davidym343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/david-yanez-martinez"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://github.com/DavidY343?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DavidY343?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" height=25 /></a>
-</p>
+  <a href="mailto:davidym343@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=gmail&logoColor=6B8E23" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-yanez-martinez">
+    <img src="https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=linkedin&logoColor=556B2F" />
+  </a>
+  <a href="https://github.com/DavidY343">
+    <img src="https://img.shields.io/badge/Follow-1F222E?style=for-the-badge&logo=github&logoColor=BC8F8F" />
+  </a>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=100&section=footer" />
+</p>
