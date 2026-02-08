@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B8E23&width=435&lines=Hi%2C+I'm+David!;Computer+Science+Engineer;42+Madrid+Alumni;Welcome+to+my+space!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6B8E23&center=true&width=435&lines=Hi%2C+I'm+David;Welcome+to+my+space!;Computer+Science+Engineer;42+Alumni" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -7,11 +7,13 @@
   <img src="https://img.shields.io/badge/Status-Coding_at_42-8FBC8F?style=flat-square&logo=42&logoColor=black" />
   <img src="https://img.shields.io/badge/Location-Madrid%2C_Spain-BC8F8F?style=flat-square&logoColor=black" />
 </p>
+
 <p align="center">
   <a href="#about-me">About Me</a> •
   <a href="#stats--activity">Stats & Activity</a> •
   <a href="#toolbox">Toolbox</a> •
   <a href="#featured-projects">Featured Projects</a> •
+  <a href="#recent-activity">Recent Activity</a> •
   <a href="#connect-with-me">Contact</a>
 </p>
 
