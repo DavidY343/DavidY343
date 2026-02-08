@@ -68,6 +68,8 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 
 ### Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 ### Connect with me
 
