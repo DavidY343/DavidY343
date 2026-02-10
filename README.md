@@ -33,11 +33,15 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 
 <p align="center">
   <img alt="DavidY's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DavidY343&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=6B8E23&icon_color=F8D866" width="58%"/>
-  <img alt="DavidY's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=6B8E23&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="38%" />
+  <img alt="DavidY's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DavidY343&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=6B8E23&icon_color=F8D866&hide=Jupyter%20Notebook" width="38%" />
 </p>
 
 <p align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DavidY343&bg_color=1F222E&color=6B8E23&line=556B2F&point=D3D3D3&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidY343&theme=react&hide_border=true&background=1F222E&ring=6B8E23&fire=556B2F&currStreakNum=D3D3D3&sideNums=F8D866" width="100%" />
 </p>
 
 ---
