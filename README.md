@@ -75,16 +75,16 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 
 <div align="center">
   <a href="mailto:davidym343@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=gmail&logoColor=6B8E23" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/david-yanez-martinez">
-    <img src="https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=linkedin&logoColor=556B2F" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/DavidY343">
-    <img src="https://img.shields.io/badge/Follow-1F222E?style=for-the-badge&logo=github&logoColor=BC8F8F" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 </p>
