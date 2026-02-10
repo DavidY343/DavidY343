@@ -69,6 +69,11 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#4](https://github.com/DavidY343/fintech-tracker/issues/4) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
+2. 🗣 Commented on [#12](https://github.com/DavidY343/FT_TRANSCENDANCE/pull/12#issuecomment-3862097727) in [DavidY343/FT_TRANSCENDANCE](https://github.com/DavidY343/FT_TRANSCENDANCE)
+3. 🎉 Merged PR [#12](https://github.com/DavidY343/FT_TRANSCENDANCE/pull/12) in [DavidY343/FT_TRANSCENDANCE](https://github.com/DavidY343/FT_TRANSCENDANCE)
+4. 💪 Opened PR [#12](https://github.com/DavidY343/FT_TRANSCENDANCE/pull/12) in [DavidY343/FT_TRANSCENDANCE](https://github.com/DavidY343/FT_TRANSCENDANCE)
+5. ❗ Opened issue [#11](https://github.com/DavidY343/FT_TRANSCENDANCE/issues/11) in [DavidY343/FT_TRANSCENDANCE](https://github.com/DavidY343/FT_TRANSCENDANCE)
 <!--END_SECTION:activity-->
 ---
 ### Connect with me
