@@ -73,11 +73,11 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DavidY343/fintech-tracker/pull/6) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
-2. ℹ️ Reopened PR [#6](https://github.com/DavidY343/fintech-tracker/pull/6) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
-3. 🗣 Commented on [#6](https://github.com/DavidY343/fintech-tracker/pull/6#issuecomment-3894355374) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
-4. ❌ Closed PR [#6](https://github.com/DavidY343/fintech-tracker/pull/6) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
-5. 💪 Opened PR [#6](https://github.com/DavidY343/fintech-tracker/pull/6) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
+1. ❗ Opened issue [#8](https://github.com/DavidY343/fintech-tracker/issues/8) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
+2. ❗ Opened issue [#7](https://github.com/DavidY343/fintech-tracker/issues/7) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
+3. 🎉 Merged PR [#6](https://github.com/DavidY343/fintech-tracker/pull/6) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
+4. ℹ️ Reopened PR [#6](https://github.com/DavidY343/fintech-tracker/pull/6) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
+5. 🗣 Commented on [#6](https://github.com/DavidY343/fintech-tracker/pull/6#issuecomment-3894355374) in [DavidY343/fintech-tracker](https://github.com/DavidY343/fintech-tracker)
 <!--END_SECTION:activity-->
 ---
 ### Connect with me
