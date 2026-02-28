@@ -73,11 +73,11 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/DavidY343/Sprout/pull/11#issuecomment-3917055052) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
-2. 🎉 Merged PR [#11](https://github.com/DavidY343/Sprout/pull/11) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
-3. 🔒 Closed issue [#10](https://github.com/DavidY343/Sprout/issues/10) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
-4. 🗣 Commented on [#10](https://github.com/DavidY343/Sprout/issues/10#issuecomment-3917052193) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
-5. 💪 Opened PR [#11](https://github.com/DavidY343/Sprout/pull/11) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
+1. 🔒 Closed issue [#3](https://github.com/DavidY343/Sprout/issues/3) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
+2. 🗣 Commented on [#11](https://github.com/DavidY343/Sprout/pull/11#issuecomment-3917055052) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
+3. 🎉 Merged PR [#11](https://github.com/DavidY343/Sprout/pull/11) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
+4. 🔒 Closed issue [#10](https://github.com/DavidY343/Sprout/issues/10) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
+5. 🗣 Commented on [#10](https://github.com/DavidY343/Sprout/issues/10#issuecomment-3917052193) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
 <!--END_SECTION:activity-->
 ---
 ### Connect with me
