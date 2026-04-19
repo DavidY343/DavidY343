@@ -73,11 +73,11 @@ Hi! I'm David, a passionate Computer Science Engineer and a student at 42 Madrid
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/1) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
-2. 🗣 Commented on [#1](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/1#issuecomment-4202637385) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
-3. 💪 Opened PR [#1](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/1) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
-4. 🔒 Closed issue [#10](https://github.com/DavidY343/Sprout/issues/10) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
-5. 🗣 Commented on [#10](https://github.com/DavidY343/Sprout/issues/10#issuecomment-3917052193) in [DavidY343/Sprout](https://github.com/DavidY343/Sprout)
+1. 🎉 Merged PR [#2](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/2) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
+2. 💪 Opened PR [#2](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/2) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
+3. 🎉 Merged PR [#1](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/1) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
+4. 🗣 Commented on [#1](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/1#issuecomment-4202637385) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
+5. 💪 Opened PR [#1](https://github.com/DavidY343/Portfolio-RodrigoNombela/pull/1) in [DavidY343/Portfolio-RodrigoNombela](https://github.com/DavidY343/Portfolio-RodrigoNombela)
 <!--END_SECTION:activity-->
 ---
 ### Connect with me
